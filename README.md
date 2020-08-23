@@ -11,6 +11,6 @@ Due to large dataset in CIFAR-10, GPU is needed in training. By the way, [Baidu 
 ### 2.CIFAR-10 DATASET
 ![image](https://github.com/xiangqiangzeng/GAN/blob/master/Images/cifar-10.png)
 ### 3.TRIAN
-Jupyter NoteBook, a training platform, is used to program and run code. Therefore, you can see the 12345 in CIFAR-10-GAN , which is different cell of Jupyter NoteBook.
-The image of trianing result are listed as follows.
+Jupyter NoteBook, a training platform, is used to program and run code. Therefore, you can see the 12345 in CIFAR-10-GAN , which is different cell of Jupyter NoteBook.<br>
+The image of trianing result are listed as follows.<br>
 ![image](https://github.com/xiangqiangzeng/GAN/blob/master/Images/result.png)
