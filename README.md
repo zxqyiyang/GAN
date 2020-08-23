@@ -2,8 +2,8 @@
 It is a project using GAN (Generative Asversarial Network) and training by CIFAR-10 dataset.<br>
 
 ### 1.Computer Environment
-The need of detailed information of training envionment could been seen as follows.
-[Paddlepaddle](https://github.com/paddlepaddle/paddle), one of the most mature and perfect deep learning framework in China, as similar as Pytorch, has been repidly debeloping in recent years. 
+Detailed information of training envionment could been seen as follows.
+[Paddlepaddle](https://github.com/paddlepaddle/paddle), one of the most mature and perfect deep learning framework in China, as similar as Pytorch, has been rapidly debeloping in recent years. 
 Due to large dataset in CIFAR-10, GPU is needed in training. By the way, [Baidu AIstudio](https://aistudio.baidu.com/aistudio/index)  provides free GPU and programing environment for registrars.
 | Framework | Language | GPU | Dataset |
 | ---- | ---- | ---- | ---- |
